@@ -1,0 +1,5 @@
+﻿  7. Reverse Integer.cpp
+C:\Обучение\Программирование\C++\Задачи\Leetcode\7. Reverse Integer\7. Reverse Integer\7. Reverse Integer.cpp(10,27): warning C4804: <=: небезопасное использование типа "bool" в операции
+C:\Обучение\Программирование\C++\Задачи\Leetcode\7. Reverse Integer\7. Reverse Integer\7. Reverse Integer.cpp(30,20): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Обучение\Программирование\C++\Задачи\Leetcode\7. Reverse Integer\7. Reverse Integer\7. Reverse Integer.cpp(37,28): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  7. Reverse Integer.vcxproj -> C:\Обучение\Программирование\C++\Задачи\Leetcode\7. Reverse Integer\Debug\7. Reverse Integer.exe
